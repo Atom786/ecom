@@ -1,0 +1,47 @@
+[
+    {
+        "name": "HP Laptop",
+        "price": "45000",
+        "description": "This is HP Laptop",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "Demo/imagelink",
+            "url": "http://products/images"
+        }],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Iphone 13",
+        "price": "80000",
+        "description": "This is HP Laptop",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "Demo/imagelink",
+            "url": "http://products/images"
+        }],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo Laptop",
+        "price": "45000",
+        "description": "This is HP Laptop",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "Demo/imagelink",
+            "url": "http://products/images"
+        }],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
